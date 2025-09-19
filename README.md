@@ -11,11 +11,11 @@
 ---
 
 ## 🛠 Skills & Tools  
-- **SQL**: Joins, Aggregations, CTEs, Subqueries, Window Functions  
-- **Power BI**: Interactive dashboards, DAX, data modeling  
-- **Tableau**: Data visualization, storytelling, KPIs tracking  
-- **Python (beginner)**: Data cleaning, finance analytics (pandas, matplotlib)  
-- **Excel**: PivotTables, lookup formulas, financial models  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
 
@@ -31,6 +31,12 @@
 
 ### Tableau  
 - 📈 [Executive Sales & Profitability Overview](https://public.tableau.com/views/SuperstoreSalesProfitability_twb/ExecutiveOverview) – Dashboard exploring sales performance and profitability trends with filters & KPIs.  
+
+---
+
+## 📈 GitHub Stats  
+![Rotem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rotembm999&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotembm999&layout=compact&theme=tokyonight)  
 
 ---
 
