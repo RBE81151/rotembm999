@@ -22,7 +22,7 @@
 ## 📊 Projects  
 
 ### SQL  
-- 📄 [SQL Practice Queries](https://github.com/rotembm999/NYC-Rodent-Analysis/blob/main/rodents_summary.sql) – Real datasets with filtering, grouping, and aggregations.  
+-📄 [SQL Practice Queries](sql_practice_queries.sql) – Real datasets with filtering, grouping, and aggregations.
 - 📄 WOW Football Dataset Analysis – Aggregations, joins, and advanced queries.  
 
 ### Power BI  
