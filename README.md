@@ -22,8 +22,8 @@
 ## 📊 Projects  
 
 ### SQL  
--📄 [SQL Practice Queries](sql_practice_queries.sql) – Real datasets with filtering, grouping, and aggregations.
-- 📄 WOW Football Dataset Analysis – Aggregations, joins, and advanced queries.  
+- 📄 [SQL Practice Queries](sql_practice_queries.sql) – Filtering, grouping, joins, and window functions.  
+- 📄 [NYC Rodent Inspection Analysis](https://github.com/RBE81151/NYC-Rodent-Analysis) – SQL + Power BI case study with dashboards.  
 
 ### Power BI  
 - 📊 Premier League Dashboard – Custom visuals, team colors, KPIs.  
@@ -31,11 +31,6 @@
 
 ### Tableau  
 - 📈 [Executive Sales & Profitability Overview](https://public.tableau.com/views/SuperstoreSalesProfitability_twb/ExecutiveOverview) – Dashboard exploring sales performance and profitability trends with filters & KPIs.  
-
-### Case Study – NYC Rodent Inspections 🐀  
-- 📄 [SQL Query](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/rodents_summary.sql)  
-- 📊 [Dashboard PDF](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/executive_view.pdf)  
-- 📸 [SQL Screenshot](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/sql_query.png)  
 
 ---
 
