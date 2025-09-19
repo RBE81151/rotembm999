@@ -26,8 +26,8 @@
 - 📄 [NYC Rodent Inspection Analysis](https://github.com/RBE81151/NYC-Rodent-Analysis) – SQL + Power BI case study with dashboards.  
 
 ### Power BI  
-- 📊 [NYC Rodent Inspection Dashboard](https://github.com/RBE81151/NYC-Rodent-Analysis)  
-  ![Rodent Dashboard](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/rodent.bi.webflow.png)
+- 📊 NYC Rodent Inspection Dashboard  
+  ![Rodent Dashboard](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/rodent.bi.webflow.png)  
 
 ### Tableau  
 - 📈 [Executive Sales & Profitability Overview](https://public.tableau.com/views/SuperstoreSalesProfitability_twb/ExecutiveOverview) – Dashboard exploring sales performance and profitability trends with filters & KPIs.  
