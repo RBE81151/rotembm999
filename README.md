@@ -3,14 +3,14 @@
 
 ---
 
-## 🔹 About Me
-🎯 Passionate about **data-driven decision making** in **finance & trading**.  
-💻 Skilled in **SQL, Power BI, and Tableau**, building dashboards and insights from real datasets.  
-📈 Background in **Economics & Banking**, transitioning into **data analytics** with focus on **markets, trading, and business intelligence**.  
+## 🔹 About Me  
+- 🎯 Passionate about **data-driven decision making** in finance & trading.  
+- 💻 Skilled in **SQL**, **Power BI**, and **Tableau**, building dashboards and insights from real datasets.  
+- 📈 Background in **Economics & Banking**, transitioning into data analytics with focus on **markets, trading, and business intelligence**.  
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills & Tools  
 - **SQL**: Joins, Aggregations, CTEs, Subqueries, Window Functions  
 - **Power BI**: Interactive dashboards, DAX, data modeling  
 - **Tableau**: Data visualization, storytelling, KPIs tracking  
@@ -19,21 +19,26 @@
 
 ---
 
-## 📊 Projects
+## 📊 Projects  
 
-### SQL
-- 📄 **[SQL Practice Queries](https://github.com/rotembm999/NYC-Rodent-Analysis/blob/main/rodents_summary.sql)** – Examples from SQLBolt lessons and real datasets.  
-- 📄 **WOW Football Dataset Analysis** – Aggregations, joins, and advanced queries.  
+### SQL  
+- 📄 [SQL Practice Queries](https://github.com/rotembm999/NYC-Rodent-Analysis/blob/main/rodents_summary.sql) – Real datasets with filtering, grouping, and aggregations.  
+- 📄 WOW Football Dataset Analysis – Aggregations, joins, and advanced queries.  
 
-### Power BI
-- 📊 **Premier League Dashboard** – Custom visuals, team colors, KPIs.  
-- 📊 **Workout Wednesday Challenges** – Advanced Power BI reports with time-series & smoothing.  
+### Power BI  
+- 📊 Premier League Dashboard – Custom visuals, team colors, KPIs.  
+- 📊 Workout Wednesday Challenges – Advanced Power BI reports with time-series & smoothing.  
 
-### Tableau
-- 📈 **[Executive Sales & Profitability Overview](https://public.tableau.com/views/SuperstoreSalesProfitability_twb/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** – Dashboard exploring sales performance and profitability trends with interactive filters and KPIs.  
+### Tableau  
+- 📈 [Executive Sales & Profitability Overview](https://public.tableau.com/views/SuperstoreSalesProfitability_twb/ExecutiveOverview) – Dashboard exploring sales performance and profitability trends with filters & KPIs.  
+
+### Case Study – NYC Rodent Inspections 🐀  
+- 📄 [SQL Query](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/rodents_summary.sql)  
+- 📊 [Dashboard PDF](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/executive_view.pdf)  
+- 📸 [SQL Screenshot](https://github.com/RBE81151/NYC-Rodent-Analysis/blob/main/sql_query.png)  
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rotem-ben-mouyal-635458171/)  
-- 📧 rotembm999@gmail.com
+- 📧 rotembm999@gmail.com  
